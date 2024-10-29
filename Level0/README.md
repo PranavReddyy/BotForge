@@ -90,7 +90,7 @@ In this task, you are required to design a prompt that convinces an AI to believ
    - Push your changes to your forked repository:
 
      ```bash
-     git push origin main
+     git push origin master
      ```
 
    - Open a Pull Request (PR) on the original **BotForge** repository to submit your work for review.
