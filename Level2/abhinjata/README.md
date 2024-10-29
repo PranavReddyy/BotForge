@@ -17,6 +17,17 @@ In this task, you will build and deploy a functional Discord bot with at least o
 
 - **Application Commands:** /anon, /hello, /help, /russianroullette
 
-<img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level%200/abhinjata/GenAI%20Level%200/RedesignLogo1.jpeg?raw=true" alt="Redesigned Logo" width="350" />
+<img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img1.png?raw=true" alt="Redesigned Logo" width="350" />
 
+boo acts as sort of @SpookyJeffBot which also works with Jeff
+
+<img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img2.png?raw=true" alt="Redesigned Logo" width="350" />
+T
+<img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img3.png?raw=true" alt="Redesigned Logo" width="350" />
+<img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img4.png?raw=true" alt="Redesigned Logo" width="350" />
+<img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img5.png?raw=true" alt="Redesigned Logo" width="350" />
+@SpookyJeffBot to also summon Jeff
+<img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img6.png?raw=true" alt="Redesigned Logo" width="350" />
+<img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img6_1.png?raw=true" alt="Redesigned Logo" width="350" />
+<img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img7.png?raw=true" alt="Redesigned Logo" width="350" />
 
