@@ -102,7 +102,7 @@ In this task, you will install and run a **pre-built chat interface** powered by
     - Push your changes to your forked repository:
 
     ```bash
-    git push origin main
+    git push origin master
     ```
     
 13. Open a Pull Request (PR) on the original **BotForge** repository to submit your work for review.
