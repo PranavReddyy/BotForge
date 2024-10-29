@@ -33,8 +33,8 @@ The /russianroulette game, 1/6 chance of surviving. it's supposed to be the othe
 if you survive
 <img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img5.png?raw=true" alt="Redesigned Logo" width="350" />
 @SpookyJeffBot to also summon Jeff
-<img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img6.png?raw=true" alt="Redesigned Logo" width="350" />
 
+<img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img6.png?raw=true" alt="Redesigned Logo" width="350" />
 bro comes to your dms if you use ?boo
 <img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img6_1.png?raw=true" alt="Redesigned Logo" width="350" />
 application commands 
