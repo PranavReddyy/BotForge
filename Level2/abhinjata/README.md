@@ -34,8 +34,13 @@ if you survive
 <img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img5.png?raw=true" alt="Redesigned Logo" width="350" />
 @SpookyJeffBot to also summon Jeff
 <img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img6.png?raw=true" alt="Redesigned Logo" width="350" />
+
 bro comes to your dms if you use ?boo
 <img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/Img6_1.png?raw=true" alt="Redesigned Logo" width="350" />
 application commands 
 <img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/img7.png?raw=true" alt="Redesigned Logo" width="350" />
 
+Here is Spooky Jeff Support Server
+https://discord.gg/XzhqA7CpHQ
+
+I'll get him online if anyone wants to test him out 
