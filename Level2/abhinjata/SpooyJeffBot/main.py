@@ -81,6 +81,7 @@ async def help(interaction: discord.Interaction):
     await interaction.response.send_message(f"Jeff, an ambitious man from the 19th century, passed away mysteriously in 1883. Locals still whisper about his presence. On cold nights, some claim to hear faint footsteps or feel a chilling breeze, as if Jeff never truly left. Here are the possible list of commands you can chat with his loving and friendly spirit about: [boo hello], [boo how are you], [boo bye], [boo roll dice]. You can also type ? before the command (eg. ?boo hello) to take your conversation with Jeff into the DMs. Ofcourse, also feel free to use his application commands!", ephemeral= True)
 
 
+#note: i used goofy ahh font to make him sound scary 
 
 #handling incoming messages 
 
