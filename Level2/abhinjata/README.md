@@ -40,7 +40,7 @@ bro comes to your dms if you use ?boo
 application commands 
 <img src="https://github.com/abhinjata/BotForge/blob/abhinjata-patch-1/Level2/abhinjata/Images/img7.png?raw=true" alt="Redesigned Logo" width="350" />
 
-Here is Spooky Jeff Support Server
+Here is Spooky Jeff's Support Server:
 https://discord.gg/XzhqA7CpHQ
 
 I'll get him online if anyone wants to test him out 
